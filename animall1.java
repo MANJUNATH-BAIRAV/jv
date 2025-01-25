@@ -11,7 +11,7 @@ int age;
 
 	public void display()
  	{
-	System.out.println(" The animal is " +name);
+	System.out.println(" The animal is dharani " +name);
 	System.out.println(" The age is " +age);
 	}
 }
